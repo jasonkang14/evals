@@ -18,6 +18,7 @@ Our evals registry is stored using [Git-LFS](https://git-lfs.com/). Once you hav
 ```sh
 cd evals
 git lfs fetch --all
+git lfs install
 git lfs pull
 ```
 
